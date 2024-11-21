@@ -1,0 +1,531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementservices\\servicemodels\\usersm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|solutionrelative:usermanagementservices\\servicemodels\\usersm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\controllers\\shared\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\controllers\\shared\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\viewmodels\\getuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\viewmodels\\getuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\usermanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementservices\\usermanagementservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|solutionrelative:usermanagementservices\\usermanagementservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementservices\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|solutionrelative:usermanagementservices\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementservices\\services\\shared\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|solutionrelative:usermanagementservices\\services\\shared\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagement.db.model\\data\\serializationcontextcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|solutionrelative:usermanagement.db.model\\data\\serializationcontextcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagement.db.model\\ef.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|solutionrelative:usermanagement.db.model\\ef.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagement.db.model\\extensions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|solutionrelative:usermanagement.db.model\\extensions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementservices\\servicemodels\\shared\\baseservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE4CBC8-B118-447A-9A26-C21BEE3ECD20}|UserManagementServices\\UserManagementServices.csproj|solutionrelative:usermanagementservices\\servicemodels\\shared\\baseservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\filters\\loggerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\filters\\loggerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\viewmodels\\shared\\baseapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\viewmodels\\shared\\baseapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\viewmodels\\shared\\baseautoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\viewmodels\\shared\\baseautoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagement.db.model\\data\\serializationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|solutionrelative:usermanagement.db.model\\data\\serializationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\viewmodels\\shared\\responseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\viewmodels\\shared\\responseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagement.db.model\\db_scaffolding_commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|solutionrelative:usermanagement.db.model\\db_scaffolding_commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagement.db.model\\usermanagementdbmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF6837F0-4098-4ADA-90D6-B4A6E478C93B}|UserManagement.DB.Model\\UserManagementDBModel.csproj|solutionrelative:usermanagement.db.model\\usermanagementdbmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Data\\SerializationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagementApi\\Data\\SerializationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementapi\\usermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B5789A88-088B-4995-9624-246AEB9F78EE}|UserManagementApi\\UserManagementApi.csproj|solutionrelative:usermanagementapi\\usermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementcommon\\utilities\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|solutionrelative:usermanagementcommon\\utilities\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementcommon\\utilities\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|solutionrelative:usermanagementcommon\\utilities\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementcommon\\models\\searchrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|solutionrelative:usermanagementcommon\\models\\searchrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|c:\\users\\dev\\source\\repos\\usermanagementapi\\usermanagementcommon\\models\\baseapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16288343-A40A-4640-8181-FA192F6C4A7E}|UserManagementCommon\\UserManagementCommon.csproj|solutionrelative:usermanagementcommon\\models\\baseapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Readme.md",
+              "RelativeDocumentMoniker": "UserManagementApi\\Readme.md",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Readme.md",
+              "RelativeToolTip": "UserManagementApi\\Readme.md",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-15T19:17:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseServiceModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\ServiceModels\\Shared\\BaseServiceModel.cs",
+              "RelativeDocumentMoniker": "UserManagementServices\\ServiceModels\\Shared\\BaseServiceModel.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\ServiceModels\\Shared\\BaseServiceModel.cs",
+              "RelativeToolTip": "UserManagementServices\\ServiceModels\\Shared\\BaseServiceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:59:31.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetUser.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\GetUser.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\ViewModels\\GetUser.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\GetUser.cs",
+              "RelativeToolTip": "UserManagementApi\\ViewModels\\GetUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:02:55.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoggerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Filters\\LoggerAttribute.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\Filters\\LoggerAttribute.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Filters\\LoggerAttribute.cs",
+              "RelativeToolTip": "UserManagementApi\\Filters\\LoggerAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:33:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\Services\\Shared\\BaseService.cs",
+              "RelativeDocumentMoniker": "UserManagementServices\\Services\\Shared\\BaseService.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\Services\\Shared\\BaseService.cs",
+              "RelativeToolTip": "UserManagementServices\\Services\\Shared\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:22:28.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\Shared\\ResponseViewModel.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\ViewModels\\Shared\\ResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\Shared\\ResponseViewModel.cs",
+              "RelativeToolTip": "UserManagementApi\\ViewModels\\Shared\\ResponseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:18:53.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseAutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\Shared\\BaseAutoViewModel.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\ViewModels\\Shared\\BaseAutoViewModel.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\Shared\\BaseAutoViewModel.cs",
+              "RelativeToolTip": "UserManagementApi\\ViewModels\\Shared\\BaseAutoViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAwwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:18:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\Shared\\BaseApiResponse.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\ViewModels\\Shared\\BaseApiResponse.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\Shared\\BaseApiResponse.cs",
+              "RelativeToolTip": "UserManagementApi\\ViewModels\\Shared\\BaseApiResponse.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:18:25.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\UserVM.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\ViewModels\\UserVM.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\ViewModels\\UserVM.cs",
+              "RelativeToolTip": "UserManagementApi\\ViewModels\\UserVM.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:17:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSM.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\ServiceModels\\UserSM.cs",
+              "RelativeDocumentMoniker": "UserManagementServices\\ServiceModels\\UserSM.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\ServiceModels\\UserSM.cs",
+              "RelativeToolTip": "UserManagementServices\\ServiceModels\\UserSM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:16:50.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManagementServices.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\UserManagementServices.csproj",
+              "RelativeDocumentMoniker": "UserManagementServices\\UserManagementServices.csproj",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\UserManagementServices.csproj",
+              "RelativeToolTip": "UserManagementServices\\UserManagementServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T16:11:11.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Controllers\\Shared\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\Controllers\\Shared\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Controllers\\Shared\\BaseApiController.cs",
+              "RelativeToolTip": "UserManagementApi\\Controllers\\Shared\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:53:56.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\EF.Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement.DB.Model\\EF.Models\\User.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\EF.Models\\User.cs",
+              "RelativeToolTip": "UserManagement.DB.Model\\EF.Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:53:17.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserManagementDBModel.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\UserManagementDBModel.csproj",
+              "RelativeDocumentMoniker": "UserManagement.DB.Model\\UserManagementDBModel.csproj",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\UserManagementDBModel.csproj",
+              "RelativeToolTip": "UserManagement.DB.Model\\UserManagementDBModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T15:46:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SerializationContext.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Data\\SerializationContext.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\Data\\SerializationContext.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Data\\SerializationContext.cs",
+              "RelativeToolTip": "UserManagementApi\\Data\\SerializationContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:45:42.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserManagementApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserManagementApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T15:16:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserManagementApi",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\UserManagementApi.csproj",
+              "RelativeDocumentMoniker": "UserManagementApi\\UserManagementApi.csproj",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\UserManagementApi.csproj",
+              "RelativeToolTip": "UserManagementApi\\UserManagementApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T15:16:31.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "db_scaffolding_commands.txt",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\db_scaffolding_commands.txt",
+              "RelativeDocumentMoniker": "UserManagement.DB.Model\\db_scaffolding_commands.txt",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\db_scaffolding_commands.txt",
+              "RelativeToolTip": "UserManagement.DB.Model\\db_scaffolding_commands.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-15T14:32:05.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\Extensions\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement.DB.Model\\Extensions\\User.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\Extensions\\User.cs",
+              "RelativeToolTip": "UserManagement.DB.Model\\Extensions\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:29:22.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Utilities\\Constant.cs",
+              "RelativeDocumentMoniker": "UserManagementCommon\\Utilities\\Constant.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Utilities\\Constant.cs",
+              "RelativeToolTip": "UserManagementCommon\\Utilities\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:22:02.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Utilities\\AppConfig.cs",
+              "RelativeDocumentMoniker": "UserManagementCommon\\Utilities\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Utilities\\AppConfig.cs",
+              "RelativeToolTip": "UserManagementCommon\\Utilities\\AppConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:21:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SearchRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Models\\SearchRequestModel.cs",
+              "RelativeDocumentMoniker": "UserManagementCommon\\Models\\SearchRequestModel.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Models\\SearchRequestModel.cs",
+              "RelativeToolTip": "UserManagementCommon\\Models\\SearchRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:21:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Models\\BaseApiResponse.cs",
+              "RelativeDocumentMoniker": "UserManagementCommon\\Models\\BaseApiResponse.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementCommon\\Models\\BaseApiResponse.cs",
+              "RelativeToolTip": "UserManagementCommon\\Models\\BaseApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:20:47.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserManagementServices\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementServices\\Services\\UserService.cs",
+              "RelativeToolTip": "UserManagementServices\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:11:55.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SerializationContextCustom.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\Data\\SerializationContextCustom.cs",
+              "RelativeDocumentMoniker": "UserManagement.DB.Model\\Data\\SerializationContextCustom.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\Data\\SerializationContextCustom.cs",
+              "RelativeToolTip": "UserManagement.DB.Model\\Data\\SerializationContextCustom.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:08:29.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementApi.csproj",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\UserManagementApi.csproj",
+              "RelativeDocumentMoniker": "UserManagementApi\\UserManagementApi.csproj",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\UserManagementApi.csproj",
+              "RelativeToolTip": "UserManagementApi\\UserManagementApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T13:51:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SerializationContext.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\Data\\SerializationContext.cs",
+              "RelativeDocumentMoniker": "UserManagement.DB.Model\\Data\\SerializationContext.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagement.DB.Model\\Data\\SerializationContext.cs",
+              "RelativeToolTip": "UserManagement.DB.Model\\Data\\SerializationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:50:23.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\appsettings.json",
+              "RelativeToolTip": "UserManagementApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T13:44:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Program.cs",
+              "RelativeToolTip": "UserManagementApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:24:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserManagementApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\dev\\source\\repos\\UserManagementApi\\UserManagementApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserManagementApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAA3wJYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:24:20.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

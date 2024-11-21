@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="3.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserManagement.DB.Model\UserManagementDBModel.csproj" />
+    <ProjectReference Include="..\UserManagementCommon\UserManagementCommon.csproj" />
+    <ProjectReference Include="..\UserManagementServices\UserManagementServices.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Core.Net.DataMapper">
+			<HintPath>..\Libs\Core.Net.DataMapper.dll</HintPath>
+		</Reference>
+		<Reference Include="Core.Net.Service">
+			<HintPath>..\Libs\Core.Net.Service.dll</HintPath>
+		</Reference>
+		<Reference Include="TLX.Core.Logger">
+			<HintPath>..\Libs\TLX.Core.Logger.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>

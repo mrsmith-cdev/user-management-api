@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\bin\Debug\net8.0\UserManagementCommon.deps.json
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\bin\Debug\net8.0\UserManagementCommon.runtimeconfig.json
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\bin\Debug\net8.0\UserManagementCommon.dll
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\bin\Debug\net8.0\UserManagementCommon.pdb
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.AssemblyInfo.cs
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.dll
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\refint\UserManagementCommon.dll
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.pdb
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\UserManagementCommon.genruntimeconfig.cache
+C:\Users\dev\source\repos\UserManagementApi\UserManagementCommon\obj\Debug\net8.0\ref\UserManagementCommon.dll
